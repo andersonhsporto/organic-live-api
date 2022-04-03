@@ -1,4 +1,4 @@
-# organic-live-api
+# Organic Live API
 API showing some of the latest news about organic farming in Brazil.
 
 ## To run this project
