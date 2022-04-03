@@ -18,4 +18,3 @@ npm run start
 ```
 
 3. Open [http://localhost:9001/news](http://localhost:9001/news) with your browser to see the results of the scrape in your terminal.
-4. 
